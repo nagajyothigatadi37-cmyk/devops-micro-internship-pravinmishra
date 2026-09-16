@@ -70,8 +70,8 @@ This is not a course. It is an internship-style program — real deployments, re
 -- Week 00 → Internet & Networking Basics --
 -- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) --
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+-- Week 01 → Success Mindset --
+-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) --
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅completed | ✅solved | https://www.linkedin.com/feed/update/urn:li:activity:7504837242285355008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7504837242285355008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29 |https://medium.com/@nagajyothigatadi37/week-00-8e2a981227f3  |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅completed | ✅solved| https://www.linkedin.com/feed/update/urn:li:activity:7505169670287822848?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7505169670287822848%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29| https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
