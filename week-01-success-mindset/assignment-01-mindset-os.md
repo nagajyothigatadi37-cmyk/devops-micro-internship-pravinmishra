@@ -407,7 +407,7 @@ https://lnkd.in/p/d5ftq8_u
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://lnkd.in/p/d5ftq8_u
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37  
 
 ---
 
