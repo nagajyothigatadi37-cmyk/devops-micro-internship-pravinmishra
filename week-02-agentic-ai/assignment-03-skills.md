@@ -35,13 +35,15 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
+<img width="1014" height="714" alt="Screenshot 2026-09-20 144855" src="https://github.com/user-attachments/assets/d78582bd-b1ce-4305-898e-a9b08490cd18" />
+
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1018" height="714" alt="Screenshot 2026-09-20 145525" src="https://github.com/user-attachments/assets/974fb32f-49aa-4c8e-bd0c-6adb3dd7d9ca" />
+
 
 ---
 
