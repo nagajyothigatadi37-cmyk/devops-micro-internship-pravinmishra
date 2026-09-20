@@ -104,7 +104,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/nagajyothigatadi37-cmyk/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
