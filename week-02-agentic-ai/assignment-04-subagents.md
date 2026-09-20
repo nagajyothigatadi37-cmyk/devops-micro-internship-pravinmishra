@@ -35,19 +35,20 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+ Haiku is generally chosen for cost-sensitive tasks because it is faster and less expensive while still being suitable for simpler optimization work.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+A security auditor should inspect/analyze the code without modifying files. Removing Write helps keep the audit read-only and prevents accidental changes.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+inherit means the agent uses the model/configuration inherited from its parent or calling context, rather than forcing a particular model. This makes the agent more flexible and consistent with the environment in which it is invoked.
+
 
 ---
 
@@ -55,13 +56,15 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1061" height="726" alt="Screenshot 2026-09-20 190444" src="https://github.com/user-attachments/assets/a24b2209-ed26-446d-9bd9-07e8a7c022a4" />
+
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1054" height="716" alt="Screenshot 2026-09-20 190633" src="https://github.com/user-attachments/assets/4d70d5fb-b593-41ce-9f6e-b0987f531c68" />
+
 
 ---
 
