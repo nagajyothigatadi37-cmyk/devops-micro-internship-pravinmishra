@@ -79,7 +79,8 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 #### Screenshot 6 — Published LinkedIn post showing the caption and shared DMI Leaderboard progress
 
-Add your screenshot here.
+<img width="1348" height="709" alt="Screenshot 2026-09-20 120431" src="https://github.com/user-attachments/assets/da72fbb3-2f57-4338-b935-d4c04b38307b" />
+
 
 ---
 
@@ -97,7 +98,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/nagajyothigatadi37-cmyk/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
