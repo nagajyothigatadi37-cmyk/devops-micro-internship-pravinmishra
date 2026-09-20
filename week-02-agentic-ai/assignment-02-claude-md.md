@@ -65,13 +65,15 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+<img width="1025" height="358" alt="Screenshot 2026-09-20 134547" src="https://github.com/user-attachments/assets/736492f5-460f-4f3a-be56-8b7dfa6faeb7" />
+
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+<img width="1017" height="379" alt="Screenshot 2026-09-20 135355" src="https://github.com/user-attachments/assets/8d213da4-382b-482f-94fc-be0897e24b12" />
+
 
 ---
 
