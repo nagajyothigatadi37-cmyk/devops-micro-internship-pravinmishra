@@ -50,7 +50,8 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
-Add your screenshot here.
+<img width="1120" height="716" alt="Screenshot 2026-09-22 180740" src="https://github.com/user-attachments/assets/e5711207-fa5a-4ade-8be0-1883c0364a4e" />
+
 
 ---
 
