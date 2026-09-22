@@ -50,7 +50,8 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+<img width="1027" height="512" alt="Screenshot 2026-09-22 194709" src="https://github.com/user-attachments/assets/e62bb311-350f-4405-a942-f8764b24d6fa" />
+
 
 ---
 
@@ -64,7 +65,8 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+<img width="1017" height="517" alt="Screenshot 2026-09-22 194841" src="https://github.com/user-attachments/assets/fe65b250-224d-438e-931f-4738bc7e27cf" />
+
 
 ---
 
