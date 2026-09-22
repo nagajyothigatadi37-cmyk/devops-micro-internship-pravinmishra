@@ -95,6 +95,10 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 ### Evidence
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+<img width="1366" height="768" alt="Screenshot 2026-09-22 202918" src="https://github.com/user-attachments/assets/0761cc1f-ca25-4297-bfbd-3e727d74a85f" />
+
+<img width="1366" height="768" alt="Screenshot 2026-09-22 202648" src="https://github.com/user-attachments/assets/9add0d4a-59c6-4976-9009-c08bcf20cc31" />
+
 
 ---
 
