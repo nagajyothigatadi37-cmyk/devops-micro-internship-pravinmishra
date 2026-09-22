@@ -35,7 +35,8 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+<img width="1872" height="1264" alt="WhatsApp Image 2026-09-22 at 9 23 11 PM (1)" src="https://github.com/user-attachments/assets/a6c18647-d05e-4390-a961-42289b86d0c5" />
+
 
 ---
 
