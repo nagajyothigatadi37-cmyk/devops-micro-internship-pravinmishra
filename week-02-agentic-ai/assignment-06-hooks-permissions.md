@@ -111,6 +111,9 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+<img width="1366" height="768" alt="Screenshot 2026-09-22 203525" src="https://github.com/user-attachments/assets/55f21ccf-33c3-4621-bb74-1b149fee52ce" />
+<img width="1366" height="768" alt="Screenshot 2026-09-22 203640" src="https://github.com/user-attachments/assets/64e502b9-5090-4a32-84e3-2e8b996dcd55" />
+
 
 ---
 
@@ -123,8 +126,12 @@ Prove the logging hook runs after a successful command execution and records Ter
 ### Evidence
 
 #### Screenshot 8 — Claude running terraform validate successfully
+<img width="1366" height="768" alt="Screenshot 2026-09-22 203831" src="https://github.com/user-attachments/assets/91daa158-fc44-416c-8225-2e0b3eb8c3d4" />
+
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+<img width="1366" height="768" alt="Screenshot 2026-09-22 204020" src="https://github.com/user-attachments/assets/c3d28f20-6e44-49ba-8d27-cf63557f3caf" />
+
 
 ---
 
