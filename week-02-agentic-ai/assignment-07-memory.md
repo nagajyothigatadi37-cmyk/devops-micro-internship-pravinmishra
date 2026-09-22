@@ -20,7 +20,8 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+<img width="1872" height="1264" alt="WhatsApp Image 2026-09-22 at 9 10 51 PM (1)" src="https://github.com/user-attachments/assets/f132b7fb-912b-474f-af93-1ebc314a76a7" />
+
 
 ---
 
