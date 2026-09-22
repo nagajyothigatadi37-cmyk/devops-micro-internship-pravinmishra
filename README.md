@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics |✅completed | ✅solved | https://www.linkedin.com/feed/update/urn:li:activity:7504837242285355008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7504837242285355008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29 |https://medium.com/@nagajyothigatadi37/week-00-8e2a981227f3  |
+| 00 | Internet & Networking Basics |✅completed | ✅solved | https://lnkd.in/p/dfc-fRqD |https://medium.com/@nagajyothigatadi37/week-00-8e2a981227f3  |
 | 01 | Success Mindset | ✅completed | ✅solved| https://www.linkedin.com/feed/update/urn:li:activity:7505169670287822848?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7505169670287822848%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29| https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
