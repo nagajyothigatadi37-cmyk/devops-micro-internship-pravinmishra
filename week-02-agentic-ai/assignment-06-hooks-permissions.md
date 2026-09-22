@@ -80,7 +80,8 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-Add your screenshot here.
+<img width="1030" height="713" alt="Screenshot 2026-09-22 195159" src="https://github.com/user-attachments/assets/7b40dfa0-26d7-4e99-916d-8d4340f150b5" />
+
 
 ---
 
