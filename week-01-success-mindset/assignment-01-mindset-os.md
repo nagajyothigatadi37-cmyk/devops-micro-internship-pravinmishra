@@ -400,13 +400,13 @@ My biggest weakness is overthinking before starting a task. Sometimes I spend to
 
 Paste your LinkedIn post link here:
 
-https://lnkd.in/p/d5ftq8_u
+https://lnkd.in/p/dPCxd524
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://lnkd.in/p/d5ftq8_u
+- LinkedIn Post URL: https://lnkd.in/p/dPCxd524
 - Blog / Medium : https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37  
 
 ---
