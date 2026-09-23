@@ -46,7 +46,8 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+<img width="1358" height="623" alt="Screenshot 2026-09-23 185052" src="https://github.com/user-attachments/assets/1eca367a-0e0f-4ecd-ad23-53a03046ab8e" />
+
 
 ---
 
@@ -54,7 +55,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@nagajyothigatadi37/reflection-week-02-ef7943107567?sharedUserId=nagajyothigatadi37
 
 ---
 
