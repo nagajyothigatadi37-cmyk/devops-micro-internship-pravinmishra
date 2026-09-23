@@ -255,7 +255,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/dfc-fRqD
+https://lnkd.in/p/dyEugQQM
 
 
 ---
@@ -264,80 +264,82 @@ https://lnkd.in/p/dfc-fRqD
 
 Paste the full text of your LinkedIn post here:
 
-🚀 **Week 0 Completed – DevOps Micro Internship (DMI) | Agentic AI Cohort 3**
 
-Excited to share my Week 0 learning journey! This week helped me understand the fundamentals of the Internet, Networking, DNS, and the tools required for DevOps.
 
-### 🤖 ChatGPT
+*Title: Week 00 - Internet and Networking | My DMI Journey Begins*
 
-Used ChatGPT as a learning assistant to understand networking concepts, solve doubts, and improve my technical understanding while completing the assignment.
+*Subtitle: Understanding the basics of Internet, DNS, and App Architecture with Agentic AI - DMI Cohort 3*
 
-### 🌐 Internet & Networking
+---
 
-Learned how devices communicate using IP addresses, the role of routers and servers, and how networking enables data transfer across the internet.
+I just completed *Week 00 of DevOps Micro Internship (DMI) Cohort 3 with Agentic AI by Pravin Mishra*. This week was all about building the foundation.
 
-### 🏗️ App Architecture
+Here is my learning in 5 tasks:
 
-Explored the basic client–server architecture, where the client sends requests and the server processes them to deliver web applications efficiently.
+### 1. ChatGPT as Learning Assistant
 
-### 🌍 DNS
+I was new to DevOps and used ChatGPT as my tutor.
 
-DNS (Domain Name System) converts domain names into IP addresses. I also learned that an **A Record** is used to connect a domain directly to an IPv4 address.
+*My Prompt:* "What is a protocol in networking? Explain with a simple real-life example for a beginner."
 
-### 💻 VS Code Setup
+*What I Learned:* A protocol is a set of rules that helps computers communicate. Just like we need rules to have a phone conversation, computers need protocols to send and receive data correctly.
 
-Configured Visual Studio Code, opened the integrated terminal, executed the `dir` command, and verified my development environment successfully.
+### 2. Internet and Networking - EpicReads Story
 
-A big thank you to **@Pravin Mishra*(https://www.linkedin.com/in/pravin-mishra-aws-trainer/)* and **@Anjana Muthunayake*(https://www.linkedin.com/in/anjana-muthunayake/)* for guiding learners through this amazing DevOps journey.
+*Scenario:* How can users access EpicReads bookstore hosted in Finland?
 
-**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+My answer in 150 words:
+
+Networking allows computers to communicate using standard rules called *TCP/IP*. Data is broken into small pieces and sent via different routes using *Packet Switching*, then reassembled at the destination. Every device has a unique *IP Address* to identify its location. When you open a website, *HTTP* transfers the web page, and *HTTPS* is the secure, encrypted version. Together, these form the internet.
+
+### 3. Application Architecture
+
+I drew two architectures:
+
+*Two-Tier:* Frontend -> Database
+*Three-Tier:* Frontend -> Backend -> Database
+
+*Technologies:*
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MySQL, PostgreSQL
+
+### 4. Domain Name & DNS
+
+The site was on `52.172.142.222:3000` and we bought `epicreads.com`.
+
+*What is DNS?* It is the internet's phonebook that translates domain names into IP addresses.
+
+*Which Record?* *A Record*, because it maps a domain directly to an IPv4 address.
+
+### 5. VS Code Setup
+
+I installed VS Code, set my theme, opened the terminal inside VS Code, and ran `pwd` and `ls`. My username is visible to confirm my environment.
+
+### My Reflection
+
+*Easy:* ChatGPT and internet basics were fun.
+*Difficult:* DNS record types needed more practice.
+*Next Week:* I will focus on Git, Linux, and more terminal practice.
+
+This is just Week 00. Follow my journey!
+
+*My Graded Progress:* https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html
+
+*Start your journey:* https://dmi.pravinmishra.com/
 
 #DMIByPravinMishra #AgenticAI #DevOps
 
+---
+*P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra.*
+
+Tag: Pravin Mishra
+
+Copy this directly to Medium, add your 3 screenshots, and publish.
 
 ---
 
 # Reflection – Week 0
-
-### What did you find easy?
-
-## LinkedIn Post URL
-
-## LinkedIn Post Backup Copy
-
-🤖 ChatGPT
-
-🚀 **Week 0 Completed – DevOps Micro Internship (DMI) | Agentic AI Cohort 3**
-
-Excited to share my Week 0 learning journey! This week helped me understand the fundamentals of the Internet, Networking, DNS, and the tools required for DevOps.
-
-### 🤖 ChatGPT
-
-Used ChatGPT as a learning assistant to understand networking concepts, solve doubts, and improve my technical understanding while completing the assignment.
-
-### 🌐 Internet & Networking
-
-Learned how devices communicate using IP addresses, the role of routers and servers, and how networking enables data transfer across the internet.
-
-### 🏗️ App Architecture
-
-Explored the basic client–server architecture, where the client sends requests and the server processes them to deliver web applications efficiently.
-
-### 🌍 DNS
-
-DNS (Domain Name System) converts domain names into IP addresses. I also learned that an **A Record** is used to connect a domain directly to an IPv4 address.
-
-### 💻 VS Code Setup
-
-Configured Visual Studio Code, opened the integrated terminal, executed the `dir` command, and verified my development environment successfully.
-
-A big thank you to **@Pravin Mishra** and **@Anjana Muthunayake** for guiding learners through this amazing DevOps journey.
-
-**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** [https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html](https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html) **· Start your DevOps journey:** [https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3](https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3)
-
-#DMIByPravinMishra #AgenticAI #DevOps
-
-## Reflection – Week 0
 
 ### What did you find easy?
 
