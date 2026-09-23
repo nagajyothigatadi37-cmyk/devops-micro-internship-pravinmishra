@@ -93,7 +93,8 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="924" height="675" alt="Screenshot 2026-09-23 191229" src="https://github.com/user-attachments/assets/d39f2fef-ad84-401d-9f6d-2c9a52354950" />
+
 
 ---
 
@@ -101,15 +102,35 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+
+🚀 Week 2 Completed — DevOps Micro Internship (DMI) | Agentic AI Cohort 3
+This week I explored how Claude Code can work as an AI development assistant inside VS Code. I learned about project Memory, Hooks, and how persistent context helps make development more efficient.
+One of my favorite assignments was proving that Claude could remember project information even after restarting the session. It was a great hands-on experience that showed me how AI can support real development workflows.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gswwzbVv · Start your DevOps journey: https://lnkd.in/gsfagbMV
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
+View image
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1041" height="713" alt="Screenshot 2026-09-22 194210" src="https://github.com/user-attachments/assets/ea1f3315-fef6-48ec-be02-c7265a62e75c" />
+
+
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/dRXDgmrG
 
 ---
 
