@@ -72,13 +72,15 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+<img width="1366" height="768" alt="Screenshot 2026-09-23 180822" src="https://github.com/user-attachments/assets/4140ddde-4909-4353-8f4f-2c31a7dea1e4" />
+
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+<img width="1366" height="768" alt="Screenshot 2026-09-23 180901" src="https://github.com/user-attachments/assets/57b2a5a2-fb25-4eb0-b86c-71f957ff3045" />
+
 
 ---
 
