@@ -73,8 +73,8 @@ This is not a course. It is an internship-style program — real deployments, re
 -- Week 01 → Success Mindset --
 -- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) --
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+-- Week 02 → Agentic AI with Claude Code --
+-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) --
 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅completed | ✅solved | https://lnkd.in/p/dfc-fRqD |https://medium.com/@nagajyothigatadi37/week-0-completed-my-devops-micro-internship-dmi-journey-agentic-ai-cohort-3-b928524cfc6e?sharedUserId=nagajyothigatadi37  |
 | 01 | Success Mindset | ✅completed | ✅solved| https://lnkd.in/p/d5ftq8_u| https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37|
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅completed | ✅solved |  | https://medium.com/@nagajyothigatadi37/reflection-week-02-ef7943107567?sharedUserId=nagajyothigatadi37 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
