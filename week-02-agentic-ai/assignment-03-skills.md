@@ -103,8 +103,8 @@ https://github.com/nagajyothigatadi37-cmyk/devops-micro-internship-pravinmishra
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
+https://lnkd.in/p/drh9ZBkT
 
-https://lnkd.in/p/dSFdWtw9
 ---
 
 # Completion Checklist
