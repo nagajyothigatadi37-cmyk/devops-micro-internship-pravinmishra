@@ -255,7 +255,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/dyEugQQM
+https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-agenticai-devops-share-7508529769203007489-TyX_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR
 
 
 ---
