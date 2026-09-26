@@ -130,7 +130,7 @@ View image
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/dRXDgmrG
+https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-agenticai-claudecode-share-7508520839630397440-pX0p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR0
 
 ---
 
