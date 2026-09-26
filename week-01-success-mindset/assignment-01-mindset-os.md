@@ -406,7 +406,7 @@ https://lnkd.in/p/dPCxd524
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://lnkd.in/p/dPCxd524
+- LinkedIn Post URL: https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-agenticai-devops-ugcPost-7508532012346150912-m_Fv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR
 - Blog / Medium : https://medium.com/@nagajyothigatadi37/week-1-reflection-building-my-mindset-os-50d0bc7a5f2a?sharedUserId=nagajyothigatadi37  
 
 ---
