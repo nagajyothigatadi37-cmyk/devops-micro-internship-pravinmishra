@@ -112,13 +112,11 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 <img width="1340" height="463" alt="Screenshot 2026-09-27 180552" src="https://github.com/user-attachments/assets/106e1c39-4cf1-4a94-8829-a4aaff362e3b" />
 
-
-
 ---
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
+<img width="1357" height="684" alt="image" src="https://github.com/user-attachments/assets/4acc8ad7-8105-4dd7-b1ba-bd6e3939d553" />
 
 ---
 
