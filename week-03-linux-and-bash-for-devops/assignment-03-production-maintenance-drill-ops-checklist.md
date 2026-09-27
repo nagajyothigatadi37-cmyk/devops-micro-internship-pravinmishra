@@ -256,7 +256,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirm the deployment by opening the React application in the browser and verifying that it displays my full name (Gatadi Nagajyothi) and the current date (27 September 2026). I also ensure the production build has been copied to /var/www/html and is being served by Nginx.
 
 ---
 
