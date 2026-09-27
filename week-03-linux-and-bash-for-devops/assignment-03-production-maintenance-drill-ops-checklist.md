@@ -231,19 +231,22 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+<img width="756" height="245" alt="Screenshot 2026-09-27 193442" src="https://github.com/user-attachments/assets/b0f13b10-c720-4d3f-8a16-f8370e3e9ef5" />
+
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+<img width="1355" height="685" alt="Screenshot 2026-09-27 193736" src="https://github.com/user-attachments/assets/8492dee6-59c7-4020-8b22-66fb26db9aaa" />
+
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+<img width="950" height="35" alt="Screenshot 2026-09-27 193833" src="https://github.com/user-attachments/assets/7e7ca4bc-1525-42b2-b2ed-892f115481f4" />
+
 
 ---
 
