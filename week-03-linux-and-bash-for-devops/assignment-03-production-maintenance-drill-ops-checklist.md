@@ -339,19 +339,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the semicolon (;) was removed from the try_files $uri /index.html; line in the Nginx configuration. This caused a syntax error, so Nginx could not validate the configuration.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I opened the Nginx configuration file, re-added the missing semicolon, saved the file, verified it with sudo nginx -t, and restarted Nginx using sudo systemctl restart nginx. The application was restored successfully.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would always test configuration changes with nginx -t before restarting, keep a backup of the last working configuration, and use version control so changes can be reviewed and rolled back quickly if needed.
 
 ---
 
