@@ -211,13 +211,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+disk space is the most critical resource when high because running completely out of storage causes immediate system-wide crashes, whereas high CPU or memory usually just degrades performance.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+Applications and databases crash when write transactions or logs fail, log files stop recording, temporary files cannot be created, and users may be locked out of SSH sessions—frequently resulting in data corruption and downtime.
 
 ---
 
