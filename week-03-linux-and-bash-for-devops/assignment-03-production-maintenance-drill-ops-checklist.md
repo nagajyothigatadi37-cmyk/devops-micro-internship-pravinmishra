@@ -151,19 +151,21 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No. 
+During my check, the Nginx error log showed no recent errors. This means Nginx did not report any configuration, startup, or request-processing issues while serving the React application.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that the system is healthy and stable. Nginx is running correctly, the configuration is valid, and the React application is being served without any detected server-side errors.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes.
+The curl requests appeared in the Nginx access log as HTTP GET requests. This proves that the requests successfully reached the Nginx server and were processed correctly, confirming end-to-end traffic flow between the client and the web server.
 
 ---
 
