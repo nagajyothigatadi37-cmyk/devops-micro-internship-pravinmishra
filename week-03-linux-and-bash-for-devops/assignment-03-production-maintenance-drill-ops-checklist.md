@@ -367,31 +367,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure because it uses a unique cryptographic key instead of a password. Private keys are much harder to guess or steal, reducing the risk of unauthorized access.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only required ports should be open to reduce the server's attack surface. Closing unused ports helps prevent unauthorized access and improves overall system security.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+Enabling Nginx on boot ensures the web server starts automatically whenever the server restarts. This improves reliability and keeps the application available without manual intervention.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets or credentials can allow attackers to access servers, cloud accounts, or applications. It may lead to data breaches, unauthorized changes, and financial or security losses.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Stopping or terminating unused cloud resources prevents unnecessary costs and reduces security risks by removing idle services that could be exposed to attacks.
 
 ---
 
