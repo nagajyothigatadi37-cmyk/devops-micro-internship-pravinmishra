@@ -35,7 +35,8 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="1307" height="675" alt="Screenshot 2026-09-27 133757" src="https://github.com/user-attachments/assets/fd7dc943-4468-45f5-b45e-65c7f1c97c82" />
+
 
 ---
 
