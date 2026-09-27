@@ -46,8 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-<img width="1358" height="623" alt="Screenshot 2026-09-23 185052" src="https://github.com/user-attachments/assets/1eca367a-0e0f-4ecd-ad23-53a03046ab8e" />
-
+<img width="1347" height="621" alt="Screenshot 2026-09-27 125035" src="https://github.com/user-attachments/assets/a595f05a-844e-416e-81aa-a13fb34aedc4" />
 
 ---
 
@@ -55,7 +54,7 @@ You can publish your blog on:
 
 Blog Link:
 
-https://medium.com/@nagajyothigatadi37/reflection-week-02-ef7943107567?sharedUserId=nagajyothigatadi37
+https://medium.com/@nagajyothigatadi37/week-02-agentic-ai-0f5083754452?sharedUserId=nagajyothigatadi37
 
 ---
 
