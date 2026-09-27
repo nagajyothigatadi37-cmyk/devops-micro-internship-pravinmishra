@@ -295,19 +295,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The configuration failed because the semicolon (;) was removed from the try_files $uri /index.html; directive. This created a syntax error, so sudo nginx -t failed.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I edited the Nginx configuration file, re-added the missing semicolon, saved the file, verified it with sudo nginx -t, and restarted Nginx using sudo systemctl restart nginx.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+Always validate configuration changes with nginx -t before restarting the service, review changes carefully, and keep a backup of the last working configuration so it can be restored quickly if needed.
 
 ---
 
