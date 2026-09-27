@@ -123,19 +123,22 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+<img width="802" height="37" alt="Screenshot 2026-09-27 191636" src="https://github.com/user-attachments/assets/9ac0a0a6-4136-41f3-b170-98e670ca6652" />
+
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+<img width="839" height="40" alt="Screenshot 2026-09-27 191653" src="https://github.com/user-attachments/assets/f9a0e20c-58ec-4d0d-ad9c-07a78f9a181a" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+<img width="1005" height="499" alt="Screenshot 2026-09-27 191735" src="https://github.com/user-attachments/assets/d463d16b-9379-4ccc-bb51-5bf2aebb63d8" />
+
 
 ---
 
