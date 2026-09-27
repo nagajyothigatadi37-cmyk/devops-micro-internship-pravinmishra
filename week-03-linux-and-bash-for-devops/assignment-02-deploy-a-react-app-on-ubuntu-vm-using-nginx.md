@@ -110,7 +110,8 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-<img width="1360" height="691" alt="Screenshot 2026-09-27 180314" src="https://github.com/user-attachments/assets/6d32460e-29a2-427a-93a7-68cf4ad54ce4" />
+<img width="1340" height="463" alt="Screenshot 2026-09-27 180552" src="https://github.com/user-attachments/assets/106e1c39-4cf1-4a94-8829-a4aaff362e3b" />
+
 
 
 ---
