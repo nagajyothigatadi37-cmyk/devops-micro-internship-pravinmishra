@@ -52,19 +52,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows LISTEN on 0.0.0.0:80, which confirms that the Nginx web server is actively listening for HTTP connections on port 80.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The sudo ss -tulpen output includes LISTEN on 0.0.0.0:22, showing that the SSH service is running and accepting connections on port 22.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+Yes. Besides ports 22 (SSH) and 80 (Nginx), ports 631 (CUPS printing service) and 3000 (Node.js development server) were also open. These are common development services, but they should be disabled in production if they are not needed.
 
 ---
 
