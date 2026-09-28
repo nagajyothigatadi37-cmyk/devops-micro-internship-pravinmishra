@@ -38,19 +38,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash (Bourne Again Shell) is a command-line shell and scripting language used to interact with the Linux operating system. It allows users to run commands, automate repetitive tasks, and create shell scripts.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a program that lets users communicate with the operating system through commands. Bash is one specific type of shell, and it is the most commonly used shell in Linux because it supports both command execution and scripting.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Confirming the Bash version ensures that your script is compatible with the features available on your system. Some commands and syntax work only in newer Bash versions, so checking the version helps avoid errors and improves portability.
 
 ---
 
