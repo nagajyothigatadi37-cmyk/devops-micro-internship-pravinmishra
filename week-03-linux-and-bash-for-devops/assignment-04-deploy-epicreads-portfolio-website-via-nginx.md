@@ -94,7 +94,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="833" height="449" alt="Screenshot 2026-09-28 092743" src="https://github.com/user-attachments/assets/61c72cd2-9143-4fda-85ee-eaed2ec00606" />
+
 
 ---
 
