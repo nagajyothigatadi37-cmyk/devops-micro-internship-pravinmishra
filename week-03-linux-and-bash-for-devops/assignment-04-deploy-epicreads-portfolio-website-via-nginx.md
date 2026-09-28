@@ -129,13 +129,14 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dVeQZB6H
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="1355" height="635" alt="Screenshot 2026-09-28 132722" src="https://github.com/user-attachments/assets/69cbb31b-7c51-4aa4-97d3-1d3710e32fa3" />
+
 
 ---
 
@@ -150,18 +151,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [✅] Screenshot 0: Nginx service status (active/running)
+- [✅] Screenshot 1: Website files downloaded and extracted
+- [✅] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [✅] Screenshot 3: Nginx configuration test successful
+- [✅] Screenshot 4: Website files deployed to /var/www/html
+- [✅] Screenshot 5: Public IP retrieved
+- [✅] Screenshot 6: Live website accessible in browser with footer details
+- [✅] Screenshot 7: Nginx enabled on boot
+- [✅] Screenshot 8: Local HTTP response returns 200 OK
+- [✅] LinkedIn post published and URL submitted
+- [✅] Full Name visible in all required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
