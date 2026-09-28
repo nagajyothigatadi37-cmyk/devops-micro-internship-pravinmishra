@@ -89,19 +89,21 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+#!/bin/bash is called a shebang. It tells the operating system to run the script using the Bash interpreter, ensuring the script executes with Bash.
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+chmod +x gives the script execute permission. Without it, the file cannot be run directly as a program.
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh runs the script as an executable file and requires execute permission (chmod +x).
+
+bash script.sh runs the script through the Bash interpreter and does not require execute permission.
 
 ---
 
