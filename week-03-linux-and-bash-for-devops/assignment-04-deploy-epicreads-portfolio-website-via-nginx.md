@@ -109,13 +109,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="955" height="72" alt="Screenshot 2026-09-28 093231" src="https://github.com/user-attachments/assets/f5cbd009-3d1b-4e01-81af-8408ce3c89bf" />
+
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="891" height="197" alt="Screenshot 2026-09-28 093141" src="https://github.com/user-attachments/assets/27c71986-0d61-4818-b12a-3af9ee394f93" />
+
 
 ---
 
