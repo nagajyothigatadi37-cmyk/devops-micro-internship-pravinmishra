@@ -48,7 +48,8 @@ You can publish your blog on:
 
 <img width="1351" height="622" alt="Screenshot 2026-09-29 063747" src="https://github.com/user-attachments/assets/3e8012eb-baf4-4cea-944c-d400dc90a6d6" />
 
-<img width="1358" height="619" alt="Screenshot 2026-09-29 063859" src="https://github.com/user-attachments/assets/911d519a-a30e-4034-a7f2-4901c49f66db" />
+<img width="1348" height="621" alt="Screenshot 2026-09-29 214336" src="https://github.com/user-attachments/assets/e05dde1f-3d86-4015-8be2-141374f0f0a2" />
+
 
 ---
 
@@ -57,7 +58,6 @@ You can publish your blog on:
 Blog Link:
 
 https://medium.com/@nagajyothigatadi37/reflection-week-2-e7de999e6508?sharedUserId=nagajyothigatadi37
-
 ---
 
 # Task 2 — Create LinkedIn Post
