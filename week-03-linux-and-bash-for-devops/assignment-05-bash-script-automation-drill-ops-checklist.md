@@ -237,25 +237,30 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+A loop is a programming structure that repeats a set of commands multiple times until a specified condition is met.
 
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+We use loops to repeat tasks automatically without writing the same commands again and again. This makes scripts shorter and easier to manage.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran 6 times because there are 6 tools in the tools array: bash, nano, chmod, echo, ls, and pwd.
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would change the loop so that it uses a range from 1 to 10, 
+for example:
+    for i in {1..10}
+    do
+       echo "Practice number: $i"
+    done
 
 ---
 
