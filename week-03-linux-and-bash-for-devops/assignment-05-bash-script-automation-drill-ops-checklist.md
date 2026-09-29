@@ -331,25 +331,29 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+<img width="1358" height="716" alt="Screenshot 2026-09-29 210615" src="https://github.com/user-attachments/assets/944c68b0-cf39-4905-81fb-9bb4fb542e27" />
+
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+<img width="759" height="178" alt="Screenshot 2026-09-29 211557" src="https://github.com/user-attachments/assets/aadd3c43-3cbd-487c-a74b-80b25a39c82c" />
+
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+<img width="1364" height="710" alt="Screenshot 2026-09-29 211423" src="https://github.com/user-attachments/assets/1391f771-4011-43a5-8869-b100b96a8d22" />
+
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+<img width="788" height="134" alt="Screenshot 2026-09-29 211737" src="https://github.com/user-attachments/assets/e9e20f07-6933-441a-8e48-38513a15536b" />
+
 
 ---
 
