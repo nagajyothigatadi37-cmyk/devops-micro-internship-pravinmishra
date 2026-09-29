@@ -451,13 +451,15 @@ The script uses variables to store details, an array to store tools, a loop to p
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dUueQjxb
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1350" height="617" alt="Screenshot 2026-09-29 220350" src="https://github.com/user-attachments/assets/7bf0081d-39f7-4680-827a-625471fd3b02" />
+
+<img width="1344" height="621" alt="Screenshot 2026-09-29 220456" src="https://github.com/user-attachments/assets/cb87c93e-6000-451e-b06b-25c8ce86e178" />
 
 ---
 
