@@ -187,25 +187,25 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array in Bash is a variable that can store multiple values under one name. Each value can be accessed using its index.
 
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays are useful because they allow us to store and manage multiple related values together. This makes scripts easier to organize and reduces repeated code.
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+"${tools[@]}" means all the values stored in the tools array. It allows the script to access each tool individually, especially when used with a for loop.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop goes through each value in the tools array one by one. It then prints the name of each tool available for practice.
 
 ---
 
