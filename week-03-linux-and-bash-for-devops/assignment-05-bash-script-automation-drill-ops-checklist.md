@@ -274,19 +274,22 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+<img width="743" height="103" alt="Screenshot 2026-09-29 205707" src="https://github.com/user-attachments/assets/6627d3bc-1bf1-45be-8fa8-6e16dd762c83" />
+
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+<img width="1364" height="690" alt="Screenshot 2026-09-29 205133" src="https://github.com/user-attachments/assets/30cf1487-5063-4ed5-a546-8c813cc8855c" />
+
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+<img width="683" height="126" alt="Screenshot 2026-09-29 205431" src="https://github.com/user-attachments/assets/448c466c-5651-46a9-be96-d0ad550a66e1" />
+
 
 ---
 
