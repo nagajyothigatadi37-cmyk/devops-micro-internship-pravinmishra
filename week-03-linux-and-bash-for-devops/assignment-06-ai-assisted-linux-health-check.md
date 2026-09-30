@@ -104,6 +104,9 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 <img width="1357" height="618" alt="Screenshot 2026-09-30 213623" src="https://github.com/user-attachments/assets/ac9d9272-a641-446e-933c-876442b9adc2" />
 
+<img width="1350" height="625" alt="Screenshot 2026-09-30 220419" src="https://github.com/user-attachments/assets/00342da1-ce1b-4264-a180-88aef1c2f54f" />
+
+
 
 ---
 
