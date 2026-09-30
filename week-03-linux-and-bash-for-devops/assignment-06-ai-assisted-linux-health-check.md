@@ -111,19 +111,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the step where Claude inspects the existing project files, configuration, and system information to understand the current state before making any changes.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes. Claude followed the instruction and did not create any new files. I verified this by checking the project directory before and after the task and confirming that no additional files were created.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning helps identify the required steps, dependencies, and possible risks before making changes. It reduces mistakes, prevents unnecessary modifications, and makes automation more predictable and reliable.
 
 ---
 
