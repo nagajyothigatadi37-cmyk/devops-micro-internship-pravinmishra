@@ -64,7 +64,8 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-<img width="1053" height="718" alt="Screenshot 2026-09-30 212016" src="https://github.com/user-attachments/assets/01b847fc-7ae3-4ca4-ac01-3df249829499" />
+<img width="1334" height="714" alt="Screenshot 2026-09-30 215250" src="https://github.com/user-attachments/assets/6a3d4786-b237-4487-b586-10d73b9e6e1f" />
+
 
 
 ---
