@@ -401,31 +401,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually executed the Nginx recovery/restart command to restore the service.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The evidence is that systemctl status nginx shows active (running) and the HTTP check using curl returns a successful HTTP 200 OK response.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run verifies that the recovery action actually worked. It confirms the system has returned to a healthy state instead of assuming the problem was fixed.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+An automatic restart could interrupt important workloads, hide the real cause of a failure, cause repeated restart loops, or make an existing problem worse.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot mainly answers questions, while an agentic workflow uses AI to gather evidence, analyze the situation, recommend actions, and verify results while keeping the human in control of impactful changes.
 
 ---
 
