@@ -174,31 +174,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of the health-check functions that the script needs to run, such as checking Nginx status, HTTP connectivity, and other server conditions.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each function name stored in the checks array and executes the corresponding health-check function one by one.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Separating the checks into functions makes the script easier to read, test, maintain, and troubleshoot. Each function performs one specific health check.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) is command substitution in Bash. It runs the command inside the parentheses and replaces it with that command's output, allowing the output to be stored in a variable or used in another command.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes allow other scripts or automation tools to understand the health-check result. They distinguish between a healthy system, a warning condition, and a failure that may require action.
 
 ---
 
