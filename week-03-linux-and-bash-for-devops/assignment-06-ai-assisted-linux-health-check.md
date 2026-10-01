@@ -441,51 +441,53 @@ A chatbot mainly answers questions, while an agentic workflow uses AI to gather 
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Gatadi Nagajyothi
 
-**Date:** DD/MM/YYYY
+**Date:** 01/10/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The application was not accessible because the Nginx web server was inactive. The HTTP request to the local server also failed, indicating that the application was not serving traffic normally.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The health checks showed that the Nginx service was inactive and the HTTP request failed. The triage report identified failed Nginx, HTTP connectivity, and application availability checks.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The most likely cause was that the Nginx service had stopped running, which prevented the server from accepting and serving HTTP requests.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the evidence and the suggested recovery command, I manually executed the Nginx restart command:
+
+sudo systemctl restart nginx
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+After the recovery action, I checked the Nginx service with systemctl status nginx and verified that it was active (running). I also used curl -I http://localhost and received an HTTP 200 OK response. The second triage run showed successful health checks with no FAIL results.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The recovery action was performed manually rather than allowing the AI to restart the service automatically. This kept the human in control of the system-changing action and ensured that the recovery command was reviewed before execution.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The workflow followed the Agentic Loop: Gather — collect system and HTTP evidence; Act — identify the appropriate recovery action and execute it with human approval; Verify — run the health checks again to confirm that the service recovered successfully.
 
 ---
 
