@@ -212,13 +212,16 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+<img width="1335" height="714" alt="Screenshot 2026-10-01 091020" src="https://github.com/user-attachments/assets/8bc476dd-5a59-4af8-aee6-1d06f6b21aed" />
+
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="1341" height="715" alt="Screenshot 2026-10-01 091153" src="https://github.com/user-attachments/assets/dd58482c-1e30-4e6e-b8d5-f4b8a1fbe637" />
+
+<img width="763" height="197" alt="Screenshot 2026-10-01 091221" src="https://github.com/user-attachments/assets/09bd9716-3253-4f5f-a09a-29d43b05bf5c" />
 
 ---
 
