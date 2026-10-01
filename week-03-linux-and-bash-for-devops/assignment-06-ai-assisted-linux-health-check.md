@@ -327,6 +327,7 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
+<img width="811" height="330" alt="Screenshot 2026-10-01 175635" src="https://github.com/user-attachments/assets/7ecb73a4-67c1-46fc-9f8e-66dbfc9cd3bc" />
 
 
 ---
