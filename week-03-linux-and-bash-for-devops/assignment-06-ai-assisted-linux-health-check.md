@@ -263,13 +263,14 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="1331" height="706" alt="Screenshot 2026-10-01 122559" src="https://github.com/user-attachments/assets/7a2c5978-1f1c-4f5b-9d6d-5628459514e2" />
+
 
 ---
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
-Add your screenshot here.
+
 
 ---
 
@@ -279,25 +280,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+The skill is designed to inspect and diagnose the system rather than modify files. Bash runs health-check commands, Read examines existing files, and Grep searches for relevant information. Without Write, Claude cannot directly edit or create files.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+It prevents Claude from automatically invoking the skill on its own. The skill must be explicitly triggered, giving the user more control over when the health-check process runs.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash performs the actual system checks and collects evidence, such as service status, ports, and HTTP responses. Claude interprets that evidence and explains whether the results indicate a healthy, warning, or failed condition.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+Providing actual evidence makes the diagnosis objective and verifiable. Instead of guessing, Claude can base its conclusion on real command outputs and clearly explain which checks passed or failed.
 
 ---
 
