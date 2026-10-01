@@ -391,13 +391,15 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="604" height="122" alt="Screenshot 2026-10-01 183024" src="https://github.com/user-attachments/assets/28561de9-75b6-481c-9c6f-7e872d7ca409" />
+
 
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1340" height="603" alt="Screenshot 2026-10-01 183628" src="https://github.com/user-attachments/assets/26807384-2057-4337-8f90-ddb382ea3ebc" />
+
 
 ---
 
