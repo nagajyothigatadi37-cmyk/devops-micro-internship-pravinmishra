@@ -231,25 +231,25 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status of the healthy baseline is HEALTHY because Nginx is running, the server is listening for HTTP traffic, and the application is responding normally.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The curl -I http://localhost command returning HTTP/1.1 200 OK proves that the application is successfully serving HTTP traffic.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because all the required health checks passed and the overall status was HEALTHY.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning indicates a condition that is not ideal but does not necessarily mean the application is down. A failure indicates a critical health check has failed and the application or service may not be functioning correctly.
 
 ---
 
