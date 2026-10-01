@@ -270,6 +270,7 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
+<img width="1356" height="206" alt="Screenshot 2026-10-01 125906" src="https://github.com/user-attachments/assets/a55bd078-b859-4863-8c57-6eadbcc41725" />
 
 
 ---
