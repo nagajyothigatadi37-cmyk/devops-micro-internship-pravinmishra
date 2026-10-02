@@ -167,7 +167,8 @@ Add your screenshot here.
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+<img width="705" height="458" alt="Screenshot 2026-10-02 152105" src="https://github.com/user-attachments/assets/bc45dbc7-f76f-4942-8599-63529db07964" />
+
 
 ---
 
