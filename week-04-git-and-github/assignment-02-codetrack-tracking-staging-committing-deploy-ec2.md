@@ -117,7 +117,10 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+<img width="701" height="465" alt="Screenshot 2026-10-02 151546" src="https://github.com/user-attachments/assets/875ef08e-cf60-48c4-bc7e-afc31d7276b3" />
+
+
+<img width="805" height="628" alt="Screenshot 2026-10-02 150555" src="https://github.com/user-attachments/assets/97378d99-1dcc-48b4-bf31-308ed494f7c3" />
 
 ---
 
