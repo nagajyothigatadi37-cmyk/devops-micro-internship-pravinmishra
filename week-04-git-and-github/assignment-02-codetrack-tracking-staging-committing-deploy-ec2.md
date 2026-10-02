@@ -123,19 +123,22 @@ Add your screenshot here.
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="1044" height="537" alt="Screenshot 2026-10-02 144854" src="https://github.com/user-attachments/assets/745556e3-ceca-4fe9-b3f4-486d24465f2a" />
+
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+<img width="821" height="532" alt="Screenshot 2026-10-02 144917" src="https://github.com/user-attachments/assets/194691cf-619e-45ec-9aa8-fd185458342b" />
+
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="791" height="681" alt="Screenshot 2026-10-02 144956" src="https://github.com/user-attachments/assets/b3d7c79c-3d2a-4e90-9e04-7bd836f07cce" />
+
 
 ---
 
