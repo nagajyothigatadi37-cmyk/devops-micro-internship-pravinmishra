@@ -182,13 +182,14 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/du9Ug6f5
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+<img width="1358" height="614" alt="Screenshot 2026-10-02 202331" src="https://github.com/user-attachments/assets/9b1ff84b-5d44-430a-b5ff-d7d32d1cfa9e" />
+
 
 ---
 
