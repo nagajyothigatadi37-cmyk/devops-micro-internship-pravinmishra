@@ -162,7 +162,8 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+<img width="708" height="199" alt="Screenshot 2026-10-02 192528" src="https://github.com/user-attachments/assets/845b052d-ba2b-490f-b196-4ddacdcbbb86" />
+
 
 ---
 
