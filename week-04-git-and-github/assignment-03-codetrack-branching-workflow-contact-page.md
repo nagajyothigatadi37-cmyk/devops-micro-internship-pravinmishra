@@ -129,19 +129,22 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 11 — Output of `git merge feature/contact-page`
 
-Add your screenshot here.
+<img width="858" height="83" alt="Screenshot 2026-10-03 190337" src="https://github.com/user-attachments/assets/78b4da42-6d54-4f89-a55c-c42e9f5492e4" />
+
 
 ---
 
 #### Screenshot 12 — Output of `ls` showing `contact.html` after the merge
 
-Add your screenshot here.
+<img width="801" height="69" alt="Screenshot 2026-10-03 190358" src="https://github.com/user-attachments/assets/cac9d7e2-cf60-4c99-869a-2e404c60449f" />
+
 
 ---
 
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
-Add your screenshot here.
+<img width="698" height="450" alt="Screenshot 2026-10-03 190712" src="https://github.com/user-attachments/assets/480a0bcf-146a-48f9-bafc-6dceb75c2c5f" />
+
 
 ---
 
