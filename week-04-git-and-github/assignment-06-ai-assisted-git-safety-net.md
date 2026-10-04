@@ -213,7 +213,7 @@ Add your screenshot here.
 
 #### PR Link
 
-Add your PR URL here...
+https://github.com/nagajyothigatadi37-cmyk/devops-micro-internship-interviews/pull/1
 
 ---
 
@@ -293,9 +293,11 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+* Learned how Git pre-commit hooks can automatically detect risky patterns such as fake secrets before a commit.
+* Learned how Claude Code skills can review staged changes without modifying, committing, or pushing files.
+* Learned the importance of using fixed-rule checks together with AI-based analysis for better coverage.
+* Learned the Gather → Analyze → Human Act → Verify workflow for safer AI-assisted development.
+* Learned that AI-generated PR descriptions should always be reviewed and verified by a human before publishing.
 
 ---
 
