@@ -65,13 +65,15 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name �
 
 #### Screenshot 4 — Output of `git status` showing `pull_request.md` modified before staging
 
-Add your screenshot here.
+<img width="1094" height="199" alt="Screenshot 2026-10-04 183243" src="https://github.com/user-attachments/assets/ac5b6b11-e0f1-4ab8-b839-b22c8ef85b4c" />
+
 
 ---
 
 #### Screenshot 5 — Output of `git commit`
 
-Add your screenshot here.
+<img width="1119" height="115" alt="Screenshot 2026-10-04 183408" src="https://github.com/user-attachments/assets/01dcb778-142d-419e-932d-dea8806840bd" />
+
 
 ---
 
