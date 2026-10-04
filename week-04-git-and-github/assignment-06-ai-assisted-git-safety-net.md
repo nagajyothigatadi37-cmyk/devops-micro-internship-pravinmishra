@@ -52,7 +52,8 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="1094" height="333" alt="Screenshot 2026-10-04 195937" src="https://github.com/user-attachments/assets/90ce403e-aff7-4a12-9d0d-268848701ddb" />
+
 
 ---
 
@@ -60,7 +61,9 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+It uses an obviously fake key so students can practice the workflow **without exposing a real secret or credential**.
+This teaches safe handling of sensitive information while avoiding security risks.
+
 
 ---
 
