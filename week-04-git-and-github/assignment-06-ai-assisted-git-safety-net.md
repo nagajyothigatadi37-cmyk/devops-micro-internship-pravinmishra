@@ -113,7 +113,8 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+
+
 
 ---
 
@@ -121,13 +122,13 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The line that checks for the AKIA pattern matched the fake key because the key started with AKIA. The hook uses this fixed pattern to detect strings that look like AWS access keys.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. If the secret did not contain the AKIA pattern, the hook would not detect it. This shows that fixed rules can only catch known patterns and may miss secrets that use different formats or naming conventions.
 
 ---
 
@@ -155,13 +156,13 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+Bash and Read allow /pr-ready to inspect the repository and run checks. It does not have Write because it should not modify files automatically, keeping the review process safer.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No. The pre-commit hook caught the fake AKIA-style key, while /pr-ready could perform broader review checks on the staged changes. This shows that automated checks can catch different types of problems depending on their rules and purpose.
 
 ---
 
@@ -189,7 +190,8 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the **fake `AKIA`-style secret/key from the staged changes** so that the `pre-commit` hook no longer detected it. The rest of the intended changes were kept unchanged.
+
 
 ---
 
@@ -219,19 +221,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I reviewed the AI-generated PR description and made any necessary edits to ensure the details, branch names, and changes accurately matched my work. This helped keep the PR description clear and truthful.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+It could contain incorrect claims, wrong file names, branch names, or changes I did not actually make, which could mislead the reviewer.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The fork is my own copy where I have permission to push changes. The shared upstream repository is maintained by the project owners, so my changes should be submitted there through a PR rather than pushing directly.
 
 ---
 
@@ -245,31 +247,31 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+The steps where Claude reads the repository files, checks the staged diff, and collects the relevant Git information represent Gather.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+The steps where Claude reviews the collected information, checks for issues such as secrets, and prepares the PR description represent Analyze.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+The final commit, push, and PR creation represent Human Act. A human must perform them because these actions change repository history and publish changes, so they require human review, approval, and accountability.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+The final check after the human action, where the repository, commit, push, and PR are reviewed to confirm everything was completed correctly, represents Verify.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+The pre-commit hook provides fast, consistent protection against known patterns, while the AI skill can perform broader contextual analysis. Together, they provide stronger coverage than either one alone.
 
 ---
 
