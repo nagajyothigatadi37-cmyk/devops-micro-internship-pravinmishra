@@ -27,7 +27,8 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+<img width="1150" height="336" alt="Screenshot 2026-10-04 195129" src="https://github.com/user-attachments/assets/390baf16-a557-4cf5-8bfd-8ff042f1733c" />
+
 
 ---
 
@@ -35,7 +36,9 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch keeps `main` stable while you work on a specific change.
+It also makes the change easier to review, test, and merge through a Pull Request.
+
 
 ---
 
