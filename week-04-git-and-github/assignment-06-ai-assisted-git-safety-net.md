@@ -296,7 +296,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+https://lnkd.in/p/d6iCubSk
 
 ---
 
