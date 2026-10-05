@@ -113,7 +113,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-
+<img width="1097" height="107" alt="Screenshot 2026-10-04 211629" src="https://github.com/user-attachments/assets/ae892631-c61d-4fb6-87f6-c36a7f37f52f" />
 
 
 ---
@@ -142,13 +142,17 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1338" height="509" alt="Screenshot 2026-10-04 213658" src="https://github.com/user-attachments/assets/baecfbf2-22c2-4ee5-a806-9be0b4744a3f" />
+
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+<img width="892" height="484" alt="Screenshot 2026-10-04 214318" src="https://github.com/user-attachments/assets/c2236e2d-aa4c-45fb-8f04-8e95598e4cc2" />
+
+<img width="1041" height="519" alt="Screenshot 2026-10-04 214410" src="https://github.com/user-attachments/assets/fe14c967-dbde-4a52-a9a0-d889d97e8d0c" />
+
 
 ---
 
@@ -176,13 +180,19 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+<img width="1082" height="231" alt="Screenshot 2026-10-04 214613" src="https://github.com/user-attachments/assets/e5a4acf0-5915-4b48-bfe9-e09f75452097" />
+
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="1058" height="531" alt="Screenshot 2026-10-04 214712" src="https://github.com/user-attachments/assets/09cc814f-1223-41c6-ab48-4b4e6020fbba" />
+
+<img width="955" height="532" alt="Screenshot 2026-10-04 214731" src="https://github.com/user-attachments/assets/2a031488-f043-4665-8cf8-4925b9cafabc" />
+
+<img width="976" height="349" alt="Screenshot 2026-10-04 214748" src="https://github.com/user-attachments/assets/8e7e50d1-5e25-4135-958f-12d76b441a09" />
+
 
 ---
 
@@ -207,7 +217,8 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+<img width="1347" height="677" alt="Screenshot 2026-10-04 215051" src="https://github.com/user-attachments/assets/f2c2e384-0503-4cf9-a511-ad70cd429e92" />
+
 
 ---
 
