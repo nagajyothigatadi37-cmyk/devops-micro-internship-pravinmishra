@@ -20,7 +20,8 @@ Create a private, team-managed Scrum Space named `DevOps Micro-Internship Websit
 
 #### Screenshot 1 — Space confirmation or Space sidebar showing the Space name and key
 
-Add your screenshot here.
+<img width="1322" height="608" alt="Screenshot 2026-10-08 202551" src="https://github.com/user-attachments/assets/78727b8d-f13c-4353-a035-636fbbd9fa6b" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Create the Epic `Polish DMI Website UI & Deploy` to group the website UI and dep
 
 #### Screenshot 2 — Backlog showing the Epic panel enabled and the Epic visible
 
-Add your screenshot here.
+<img width="1334" height="622" alt="Screenshot 2026-10-08 205623" src="https://github.com/user-attachments/assets/e78fe29d-9059-405d-9b2e-524ebc77f057" />
+
 
 ---
 
