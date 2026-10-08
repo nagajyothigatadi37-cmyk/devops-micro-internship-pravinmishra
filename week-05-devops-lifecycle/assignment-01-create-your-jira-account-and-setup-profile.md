@@ -35,17 +35,15 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
-
 ---
 
 ### Notes
 
 If you signed up with Google and no separate email verification was required, include the following statement instead of Screenshot 2:
 
-> I signed up using Google, and Atlassian did not require separate email verification.
+I signed up using Google, and Atlassian did not require separate email verification.
 
-Add any additional notes here.
+It is such a simple and easy process to access the Jira Account.
 
 ---
 
@@ -59,7 +57,8 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+<img width="1349" height="667" alt="Screenshot 2026-10-08 193407" src="https://github.com/user-attachments/assets/f55f33b8-f013-44e7-8a09-6ae1a8e5bd80" />
+
 
 ---
 
@@ -73,13 +72,15 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+<img width="1341" height="669" alt="Screenshot 2026-10-08 194451" src="https://github.com/user-attachments/assets/7baab816-8583-45b8-bf3e-9d8d28b806d6" />
+
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+<img width="1345" height="668" alt="Screenshot 2026-10-08 194417" src="https://github.com/user-attachments/assets/a3caa533-90e8-4a62-967f-aba42e0c6506" />
+
 
 ---
 
