@@ -58,7 +58,8 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-<img width="1348" height="621" alt="image" src="https://github.com/user-attachments/assets/a7608ad1-4e79-4762-91c1-65647a7541e0" />
+<img width="1348" height="621" alt="Screenshot 2026-10-09 170818" src="https://github.com/user-attachments/assets/de22ff06-b42e-43c8-9430-af01b644f7dd" />
+
 
 
 ---
@@ -73,13 +74,17 @@ Break down S2 (Primary button color refresh) and S4 (Footer with version and dat
 
 #### Screenshot 5 — S2 showing all four Sub-tasks
 
-Add your screenshot here.
+<img width="1327" height="618" alt="Screenshot 2026-10-09 190433" src="https://github.com/user-attachments/assets/8dc4f0f4-84b8-4d49-9ac0-597ccac07f87" />
+
+<img width="1343" height="612" alt="Screenshot 2026-10-09 190622" src="https://github.com/user-attachments/assets/bf69e728-4b21-4638-bf18-5d4456cd5463" />
 
 ---
 
 #### Screenshot 6 — S4 showing all four Sub-tasks
 
-Add your screenshot here.
+<img width="1346" height="617" alt="Screenshot 2026-10-09 191641" src="https://github.com/user-attachments/assets/b88b5d63-98a4-4b28-ad0d-c783936d5c54" />
+
+<img width="1333" height="621" alt="Screenshot 2026-10-09 191657" src="https://github.com/user-attachments/assets/572d3648-4001-4263-b34b-305700334198" />
 
 ---
 
