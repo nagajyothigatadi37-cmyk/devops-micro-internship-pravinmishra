@@ -136,13 +136,15 @@ Filter Jira work by the `frontend` and `devops` labels and review Stories with S
 
 #### Screenshot 10 — Filter for label = frontend showing the filtered results
 
-Add your screenshot here.
+<img width="1352" height="613" alt="Screenshot 2026-10-09 200310" src="https://github.com/user-attachments/assets/904e2969-0317-430d-962b-33c377f2a1a4" />
+
 
 ---
 
 #### Screenshot 11 — Filter for label = devops showing the filtered results
 
-Add your screenshot here.
+<img width="1352" height="621" alt="Screenshot 2026-10-09 200335" src="https://github.com/user-attachments/assets/bdb7f8dc-b0f3-4e29-a108-417523f38389" />
+
 
 ---
 
