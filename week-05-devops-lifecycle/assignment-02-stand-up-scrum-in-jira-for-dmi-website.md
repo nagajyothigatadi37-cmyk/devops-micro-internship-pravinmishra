@@ -114,13 +114,15 @@ Create a one-week Sprint, move two or three Stories into it (approximately 3–5
 
 #### Screenshot 8 — Sprint 1 before starting, showing the selected Stories and Story Points
 
-Add your screenshot here.
+<img width="1358" height="616" alt="Screenshot 2026-10-09 193940" src="https://github.com/user-attachments/assets/5a72b15c-276d-45d6-975f-ddda42971225" />
+
 
 ---
 
 #### Screenshot 9 — Active Sprint board showing the started Sprint and Sprint Goal
 
-Add your screenshot here.
+<img width="1347" height="612" alt="Screenshot 2026-10-09 195740" src="https://github.com/user-attachments/assets/efdc3e0e-6b2c-4d36-b8ea-f12b92c52f34" />
+
 
 ---
 
