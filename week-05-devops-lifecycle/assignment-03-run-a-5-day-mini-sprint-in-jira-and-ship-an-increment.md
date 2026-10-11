@@ -20,13 +20,22 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+<img width="1357" height="646" alt="Screenshot 2026-10-11 123329" src="https://github.com/user-attachments/assets/ccf5bd80-bbd7-4c20-89ad-4feb5e703aa4" />
+
+<img width="1356" height="665" alt="Screenshot 2026-10-11 123350" src="https://github.com/user-attachments/assets/a1029dd6-cde5-4634-904d-d997abcf3258" />
+
+<img width="1358" height="672" alt="Screenshot 2026-10-11 123409" src="https://github.com/user-attachments/assets/23b2e50d-660f-41b8-be73-caccfde7f200" />
+
+<img width="1349" height="671" alt="Screenshot 2026-10-11 123436" src="https://github.com/user-attachments/assets/7325c1df-3f34-42db-a765-c19d57a03e46" />
+
+<img width="1356" height="664" alt="Screenshot 2026-10-11 123458" src="https://github.com/user-attachments/assets/f0c5fe8e-b429-43b6-b56c-8429e57f3c1c" />
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+<img width="1338" height="658" alt="Screenshot 2026-10-11 121704" src="https://github.com/user-attachments/assets/6f7a58a6-18e0-490b-9f65-6f1c5296b342" />
+
 
 ---
 
