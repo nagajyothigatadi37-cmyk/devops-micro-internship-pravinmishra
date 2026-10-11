@@ -49,13 +49,15 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+<img width="1346" height="661" alt="Screenshot 2026-10-11 125516" src="https://github.com/user-attachments/assets/1fd7ef2f-6230-408f-b399-af10f1fb775d" />
+
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+<img width="1270" height="619" alt="Screenshot 2026-10-11 135340" src="https://github.com/user-attachments/assets/4530cfc4-f7c1-486d-a07f-174858d5f218" />
+
 
 ---
 
