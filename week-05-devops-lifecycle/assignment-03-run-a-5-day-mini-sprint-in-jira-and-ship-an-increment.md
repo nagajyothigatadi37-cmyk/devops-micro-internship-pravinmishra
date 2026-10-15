@@ -71,6 +71,7 @@ Add your screenshot here.
 
 <img width="1342" height="668" alt="Screenshot 2026-10-13 162455" src="https://github.com/user-attachments/assets/72decbfb-22b5-42ed-9f5c-c15bda9d0604" />
 
+<img width="1357" height="671" alt="Screenshot 2026-10-13 162513" src="https://github.com/user-attachments/assets/17eff0e5-9436-4acf-be53-f60390e342a7" />
 
 ---
 
