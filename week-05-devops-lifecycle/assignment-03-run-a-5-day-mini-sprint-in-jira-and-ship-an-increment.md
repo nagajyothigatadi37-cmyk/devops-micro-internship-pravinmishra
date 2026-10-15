@@ -63,7 +63,8 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-Add your screenshot here.
+<img width="846" height="471" alt="Screenshot 2026-10-15 111520" src="https://github.com/user-attachments/assets/5c61ee38-8dd8-4517-8d00-4f72f93ee03b" />
+
 
 ---
 
