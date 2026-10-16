@@ -160,6 +160,9 @@ Locate the Burndown Chart for Sprint 1 so it is ready for later progress trackin
 
 <img width="1346" height="674" alt="Screenshot 2026-10-11 104626" src="https://github.com/user-attachments/assets/f25075cc-0b15-42aa-bc9f-fe4cfa8aec7b" />
 
+<img width="925" height="388" alt="Screenshot 2026-10-16 140628" src="https://github.com/user-attachments/assets/7a00c272-2aa4-41cc-87b2-546c49fd6589" />
+
+<img width="1010" height="623" alt="Screenshot 2026-10-16 140732" src="https://github.com/user-attachments/assets/8989ba2d-03da-47a5-a081-4e6b3cafe102" />
 
 ---
 
