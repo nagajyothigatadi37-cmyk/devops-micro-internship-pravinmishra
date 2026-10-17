@@ -86,7 +86,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+<img width="1356" height="718" alt="Screenshot 2026-10-16 151126" src="https://github.com/user-attachments/assets/1aed3876-a01c-405f-bac7-1ebc4d4a3940" />
+
 
 ---
 
@@ -98,7 +99,8 @@ Add your screenshot here.
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+<img width="1334" height="717" alt="Screenshot 2026-10-16 152417" src="https://github.com/user-attachments/assets/8eb25bc0-4c78-4730-98c7-6a66112fc0e7" />
+
 
 ---
 
