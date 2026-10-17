@@ -93,7 +93,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+<img width="855" height="481" alt="Screenshot 2026-10-17 121339" src="https://github.com/user-attachments/assets/2b992e3a-f892-4f79-9ba9-7bfc279fd4df" />
+
 
 ---
 
@@ -106,7 +107,7 @@ Add your screenshot here.
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
+
 
 ---
 
