@@ -123,7 +123,8 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-Add your screenshot here.
+<img width="740" height="493" alt="Screenshot 2026-10-19 173957" src="https://github.com/user-attachments/assets/aa3eff47-c7ef-48f0-bb70-f116a71a3ae0" />
+
 
 ---
 
