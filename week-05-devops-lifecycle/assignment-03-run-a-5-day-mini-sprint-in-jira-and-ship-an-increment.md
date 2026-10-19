@@ -182,6 +182,7 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
+<img width="938" height="624" alt="Screenshot 2026-10-19 184636" src="https://github.com/user-attachments/assets/a9619294-6d90-465d-9db0-29cae1134bb9" />
 
 
 ---
@@ -232,17 +233,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
-- [ ] Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
-- [ ] Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
-- [ ] Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
-- [ ] Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
-- [ ] Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
-- [ ] Daily Scrum comments posted for Days 1–5
-- [ ] LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
-- [ ] LinkedIn Post URL and LinkedIn Screenshot 1 included
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
+- [✅] Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
+- [✅] Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
+- [✅] Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
+- [✅] Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
+- [✅] Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
+- [✅] Daily Scrum comments posted for Days 1–5
+- [✅] LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
+- [✅] LinkedIn Post URL and LinkedIn Screenshot 1 included
+- [✅] Full Name visible in required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
