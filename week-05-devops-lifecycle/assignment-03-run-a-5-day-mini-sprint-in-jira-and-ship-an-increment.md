@@ -130,7 +130,8 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+<img width="585" height="534" alt="Screenshot 2026-10-19 180253" src="https://github.com/user-attachments/assets/329f383f-7a4d-4c60-bbe3-61a28dc85458" />
+
 
 ---
 
@@ -152,7 +153,8 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-Add your screenshot here.
+<img width="598" height="401" alt="Screenshot 2026-10-19 181138" src="https://github.com/user-attachments/assets/1def2aa0-1fb6-41cf-ae8c-0a845acc40e5" />
+
 
 ---
 
@@ -173,13 +175,14 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 16 — Jira retrospective comment
 
-Add your screenshot here.
+<img width="1356" height="624" alt="Screenshot 2026-10-19 181918" src="https://github.com/user-attachments/assets/5b585fef-957c-4ec1-a87d-fb924f8175bf" />
+
 
 ---
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-Add your screenshot here.
+
 
 ---
 
@@ -187,7 +190,9 @@ Add your screenshot here.
 
 Paste your unlisted YouTube or accessible Google Drive demo-video link here:
 
-`Add your URL here`
+https://www.youtube.com/live/PdGeFdyQ5WE?si=uOyocFTMG6Hjnhdc
+
+https://share.google/kQP7nTj1GLBlqKqt9
 
 ---
 
