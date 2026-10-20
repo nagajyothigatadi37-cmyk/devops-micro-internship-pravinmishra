@@ -146,7 +146,9 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+<img width="999" height="564" alt="Screenshot 2026-10-20 182831" src="https://github.com/user-attachments/assets/5e8647db-b05c-482e-9f40-bc02d33644b7" />
+
+<img width="1347" height="622" alt="Screenshot 2026-10-20 182850" src="https://github.com/user-attachments/assets/e5e83cf3-5b58-434e-8371-bd28d75e98c2" />
 
 ---
 
