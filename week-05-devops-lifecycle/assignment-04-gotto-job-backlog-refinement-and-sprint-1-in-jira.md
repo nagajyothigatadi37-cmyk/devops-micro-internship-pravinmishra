@@ -175,7 +175,8 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+<img width="667" height="376" alt="Screenshot 2026-10-20 205429" src="https://github.com/user-attachments/assets/284e1494-8a60-45d3-a7d2-ff88e3bad083" />
+
 
 ---
 
