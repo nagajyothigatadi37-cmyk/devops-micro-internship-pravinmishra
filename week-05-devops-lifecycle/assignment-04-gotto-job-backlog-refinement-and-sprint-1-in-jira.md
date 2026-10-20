@@ -30,7 +30,10 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-
+PO (Product Owner): Prioritized the most important website improvements based on user needs and assignment requirements.
+SM (Scrum Master): Ensured the process by tracking Jira tasks, updating statuses, and maintaining daily Scrum progress.
+Dev Lead (Development Lead): Built the website UI improvements, including the polished footer, CTA, and deployment date display.
+DevOps Lead: Shipped the changes to the AWS EC2 server, verified the live website, and captured deployment screenshots as evidence.
 
 ---
 
@@ -44,7 +47,8 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+<img width="1339" height="622" alt="Screenshot 2026-10-20 151219" src="https://github.com/user-attachments/assets/ea1aed77-9693-4e85-9218-9691419e8f7d" />
+
 
 ---
 
@@ -58,7 +62,8 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+<img width="1344" height="657" alt="Screenshot 2026-10-20 151812" src="https://github.com/user-attachments/assets/15403596-71de-4340-855c-7ba0a4aa51e2" />
+
 
 ---
 
@@ -72,13 +77,15 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+<img width="1345" height="626" alt="Screenshot 2026-10-20 152448" src="https://github.com/user-attachments/assets/a2177284-be73-449f-8a75-db097697beff" />
+
+<img width="583" height="569" alt="Screenshot 2026-10-20 152651" src="https://github.com/user-attachments/assets/a55cd3da-11ac-45e8-ada6-45cc92625477" />
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+<img width="1002" height="589" alt="Screenshot 2026-10-20 152939" src="https://github.com/user-attachments/assets/ac3fd0ad-16d9-4a5b-b06d-3652f140bcd3" />
 
 ---
 
@@ -92,7 +99,9 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+<img width="1362" height="649" alt="Screenshot 2026-10-20 153139" src="https://github.com/user-attachments/assets/12926180-9629-4de7-8068-7f38d49ec33f" />
+
+<img width="1005" height="615" alt="Screenshot 2026-10-20 153251" src="https://github.com/user-attachments/assets/06828f37-1848-48d2-84ae-18c6f202351e" />
 
 ---
 
