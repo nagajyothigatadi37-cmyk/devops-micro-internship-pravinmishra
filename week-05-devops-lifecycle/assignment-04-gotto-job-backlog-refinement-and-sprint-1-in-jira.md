@@ -30,7 +30,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+
 
 ---
 
