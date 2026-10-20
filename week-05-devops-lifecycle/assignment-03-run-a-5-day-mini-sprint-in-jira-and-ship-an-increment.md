@@ -209,13 +209,14 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/daDs5ufK
 
 ---
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-Add your screenshot here.
+<img width="1353" height="633" alt="Screenshot 2026-10-20 142531" src="https://github.com/user-attachments/assets/49019162-c0bc-43f8-af39-40a31ce14fc9" />
+
 
 ---
 
