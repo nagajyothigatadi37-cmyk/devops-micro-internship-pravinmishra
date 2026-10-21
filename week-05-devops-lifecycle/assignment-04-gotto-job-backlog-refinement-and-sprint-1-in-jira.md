@@ -206,13 +206,14 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dHi-k7W9
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1348" height="620" alt="Screenshot 2026-10-21 074051" src="https://github.com/user-attachments/assets/03d3d5e6-c9d4-494f-a9be-f2b875456e6b" />
+
 
 ---
 
