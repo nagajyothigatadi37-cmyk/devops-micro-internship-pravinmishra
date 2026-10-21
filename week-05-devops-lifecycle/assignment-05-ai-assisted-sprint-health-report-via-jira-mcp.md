@@ -104,6 +104,7 @@ Ask Claude to list the issues in your current active sprint through the Jira MCP
 
 <img width="1092" height="592" alt="Screenshot 2026-10-21 180428" src="https://github.com/user-attachments/assets/6a87ac7f-b6b0-4d91-9ccf-07642fa9148b" />
 
+<img width="1095" height="532" alt="Screenshot 2026-10-21 181118" src="https://github.com/user-attachments/assets/6a06828e-e8dc-4453-b62a-4bfb1076104b" />
 
 ### Notes You Must Write (Very Important):
 
