@@ -20,13 +20,15 @@ Generate an API token from your Atlassian account that the MCP server will use t
 
 #### Screenshot 1 — Jira API token creation confirmation page showing the token name, with the token value not visible
 
-Add your screenshot here.
+<img width="1334" height="529" alt="Screenshot 2026-10-21 075713" src="https://github.com/user-attachments/assets/2a61ac5e-25fa-472e-bd2f-adb5f0ca5963" />
+
 
 ### Notes You Must Write (Very Important):
 
 Why does the MCP server need your site URL and account email in addition to the token?
 
-Add your answer here
+The Jira site URL tells the MCP server where your Jira is hosted, and the account email identifies your Jira user account.
+The API token authenticates your account and allows access to Jira based on your permissions.
 
 ---
 
@@ -40,13 +42,15 @@ Create or update `.mcp.json` at your project root with a Jira MCP server block, 
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the Jira server configuration
 
-Add your screenshot here.
+<img width="1342" height="598" alt="Screenshot 2026-10-21 080938" src="https://github.com/user-attachments/assets/f080424f-9c67-427a-82d9-1301a6028255" />
+
 
 ### Notes You Must Write (Very Important):
 
 Compare this jira block to the github block from Week 2 Assignment 5. The GitHub server ran via npx (a Node.js package); this one runs via uvx (a Python package) — what stays exactly the same shape despite that difference, and why doesn't Claude Code care which language a given MCP server is written in?
 
-Add your answer here
+Both blocks follow the same MCP configuration structure: server name, command, arguments, and environment variables. The difference is `npx` for Node.js and `uvx` for Python.
+Claude Code doesn’t care which language the server uses because MCP provides a standardized communication protocol between the client and server.
 
 ---
 
