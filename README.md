@@ -82,8 +82,8 @@ This is not a course. It is an internship-style program — real deployments, re
 -- Week 04 → Git & GitHub --
 -- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) --
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+-- Week 05 → DevOps Lifecycle & Agile --
+-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) --
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅completed | ✅solved  | https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-agenticai-claudecode-share-7508520839630397440-pX0p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR0 |https://medium.com/@nagajyothigatadi37/reflection-week-2-e7de999e6508?sharedUserId=nagajyothigatadi37 |
 | 03 | Linux & Bash for DevOps |  ✅completed | ✅solved  | https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-devops-aws-share-7511459939693776896-2reY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR0 | https://medium.com/@nagajyothigatadi37/week-03-from-linux-foundations-to-ai-assisted-devops-incident-triage-3cb492947615?sharedUserId=nagajyothigatadi37 |
 | 04 | Git & GitHub | ✅completed | ✅solved | https://www.linkedin.com/posts/nagajyothi-gatadi-9a55aa411_dmibypravinmishra-share-7512683565650857985-ONN7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjqvw0B1Vc0ket2W9SV6G45BaPgrg4foR0 | https://medium.com/@nagajyothigatadi37/title-from-git-init-to-ai-safety-net-my-complete-6-assignment-git-github-journey-in-dmi-055d75a7d521?sharedUserId=nagajyothigatadi37 |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅completed | ✅solved | https://lnkd.in/p/dYfgsmTd | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
