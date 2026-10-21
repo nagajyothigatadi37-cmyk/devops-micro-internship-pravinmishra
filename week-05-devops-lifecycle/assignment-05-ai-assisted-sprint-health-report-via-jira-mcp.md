@@ -102,13 +102,16 @@ Ask Claude to list the issues in your current active sprint through the Jira MCP
 
 #### Screenshot 5 — Claude's response showing the live sprint issue list retrieved via Jira MCP
 
-Add your screenshot here.
+<img width="1092" height="592" alt="Screenshot 2026-10-21 180428" src="https://github.com/user-attachments/assets/6a87ac7f-b6b0-4d91-9ccf-07642fa9148b" />
+
 
 ### Notes You Must Write (Very Important):
 
 How did you confirm this was real board data and not something Claude guessed?
 
-Add your answer here
+I confirmed it was real board data because Claude retrieved the Sprint 1 issues directly from Jira using the configured Jira MCP server. The issue keys, summaries, statuses, and story points matched the actual Jira board rather than a manually generated list.
+
+Is this conversation helpful so far?
 
 ---
 
