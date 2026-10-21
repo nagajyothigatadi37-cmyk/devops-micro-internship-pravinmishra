@@ -64,13 +64,16 @@ Add your Jira site URL, account email, and API token to `.claude/settings.local.
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section, with the actual token value blurred or covered
 
-Add your screenshot here.
+<img width="1343" height="491" alt="Screenshot 2026-10-21 101725" src="https://github.com/user-attachments/assets/8b24d173-f800-4247-80c7-74e7331c3621" />
+
 
 ### Notes You Must Write (Very Important):
 
 Why must JIRA_API_TOKEN live in settings.local.json and never in .mcp.json?
 
-Add your answer here
+JIRA_API_TOKEN must live in settings.local.json rather than .mcp.json to protect sensitive credentials and keep configuration separate from secrets.
+- settings.local.json: Stores the API token locally, where it can be kept out of shared configuration and excluded from Git.
+- .mcp.json: Defines the MCP server setup, such as the uvx command, arguments, and environment variable references. It should not contain the actual secret.
 
 ---
 
@@ -84,7 +87,8 @@ Restart Claude Code and confirm the Jira MCP server shows as connected.
 
 #### Screenshot 4 — `/mcp` output showing `jira: connected`
 
-Add your screenshot here.
+<img width="1051" height="277" alt="Screenshot 2026-10-21 142152" src="https://github.com/user-attachments/assets/9dc7798a-f8c2-4d57-9bc5-232301dc57d1" />
+
 
 ---
 
