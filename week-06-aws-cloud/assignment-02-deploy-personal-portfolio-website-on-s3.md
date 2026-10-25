@@ -96,7 +96,8 @@ Load the site through the S3 website endpoint and confirm the homepage, images, 
 
 #### Screenshot 6 — Browser showing the live website with the S3 website endpoint visible in the address bar
 
-Add your screenshot here.
+<img width="1341" height="673" alt="Screenshot 2026-10-25 174403" src="https://github.com/user-attachments/assets/b33d8cbd-dc82-47f4-b42f-60f72b908932" />
+
 
 ---
 
