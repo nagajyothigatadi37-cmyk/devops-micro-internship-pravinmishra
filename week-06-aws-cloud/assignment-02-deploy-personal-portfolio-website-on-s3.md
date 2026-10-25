@@ -35,7 +35,8 @@ Create a globally unique S3 bucket in your chosen AWS region.
 
 #### Screenshot 2 — S3 bucket created screen showing the bucket name and region
 
-Add your screenshot here.
+<img width="1356" height="577" alt="Screenshot 2026-10-25 154813" src="https://github.com/user-attachments/assets/ad83641c-4bad-449a-870c-995a5c0d725d" />
+
 
 ---
 
