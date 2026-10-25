@@ -129,15 +129,15 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 # Completion Checklist
 
-- [ ] Task 1: Template downloaded/cloned with `index.html` confirmed (Screenshot 1)
-- [ ] Task 2: Globally unique S3 bucket created (Screenshot 2)
-- [ ] Task 3: Website files uploaded with `index.html` at bucket root (Screenshot 3)
-- [ ] Task 4: Static website hosting enabled (Screenshot 4)
-- [ ] Task 5: Public-read bucket policy saved (Screenshot 5)
-- [ ] Task 6: Live website verified through the S3 website endpoint (Screenshot 6)
-- [ ] Task 7: Optional small update re-uploaded and verified (Screenshot 7)
-- [ ] S3 Website Endpoint URL included
-- [ ] No sensitive account information exposed
+- [✅] Task 1: Template downloaded/cloned with `index.html` confirmed (Screenshot 1)
+- [✅] Task 2: Globally unique S3 bucket created (Screenshot 2)
+- [✅] Task 3: Website files uploaded with `index.html` at bucket root (Screenshot 3)
+- [✅] Task 4: Static website hosting enabled (Screenshot 4)
+- [✅] Task 5: Public-read bucket policy saved (Screenshot 5)
+- [✅] Task 6: Live website verified through the S3 website endpoint (Screenshot 6)
+- [✅] Task 7: Optional small update re-uploaded and verified (Screenshot 7)
+- [✅] S3 Website Endpoint URL included
+- [✅] No sensitive account information exposed
 
 ---
 
