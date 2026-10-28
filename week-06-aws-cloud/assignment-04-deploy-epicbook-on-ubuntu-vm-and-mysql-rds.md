@@ -20,19 +20,22 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
+<img width="1358" height="586" alt="Screenshot 2026-10-28 111335" src="https://github.com/user-attachments/assets/07c994bf-99e4-4da8-8190-09e965afc1dc" />
+
 
 ---
 
 #### Screenshot 2 — Subnets list showing both subnets and their CIDRs
 
-Add your screenshot here.
+<img width="1365" height="588" alt="Screenshot 2026-10-28 111406" src="https://github.com/user-attachments/assets/03c8f2da-68ff-4f1b-aab8-f93f3ec01c89" />
+
 
 ---
 
 #### Screenshot 3 — Route table showing 0.0.0.0/0 → IGW and association with the public subnet
 
-Add your screenshot here.
+<img width="1348" height="579" alt="Screenshot 2026-10-28 111434" src="https://github.com/user-attachments/assets/0de122af-b344-4d6c-93c5-33cf7080cf54" />
+
 
 ---
 
