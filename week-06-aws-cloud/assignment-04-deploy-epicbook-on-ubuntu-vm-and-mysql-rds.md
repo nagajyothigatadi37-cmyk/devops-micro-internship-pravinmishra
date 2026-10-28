@@ -49,13 +49,15 @@ Create `epicbook-ec2-sg` (SSH from your IP, HTTP/HTTPS public) and `epicbook-rds
 
 #### Screenshot 4 — EC2 security-group inbound rules showing ports and sources
 
-Add your screenshot here.
+<img width="1363" height="621" alt="Screenshot 2026-10-28 154919" src="https://github.com/user-attachments/assets/e302b1c8-3090-4597-991e-2da7d74fb0f8" />
+
 
 ---
 
 #### Screenshot 5 — RDS security-group inbound rule showing MySQL 3306 allowed from the EC2 security group
 
-Add your screenshot here.
+<img width="1363" height="623" alt="Screenshot 2026-10-28 155714" src="https://github.com/user-attachments/assets/63d01bff-dc17-485d-b4c2-b7a235c83db4" />
+
 
 ---
 
