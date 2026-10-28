@@ -52,7 +52,11 @@ Start the web server and confirm the Mini Finance website is accessible through 
 
 Take one screenshot showing the Mini Finance website running in the browser.
 
-Add your screenshot here.
+<img width="1364" height="580" alt="Screenshot 2026-10-27 214157" src="https://github.com/user-attachments/assets/aec3e2d1-a149-4d74-a62f-f31180c9d0be" />
+
+<img width="1363" height="588" alt="Screenshot 2026-10-27 214119" src="https://github.com/user-attachments/assets/47fcede8-6258-4444-b96b-c9f8f8336bad" />
+
+<img width="1364" height="626" alt="Screenshot 2026-10-25 190422" src="https://github.com/user-attachments/assets/20273677-ef17-4563-b0a5-630732993bd9" />
 
 ---
 
