@@ -78,7 +78,8 @@ Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` atta
 
 #### Screenshot 7 — Terminal showing a successful SSH login with the `ubuntu@...` prompt
 
-Add your screenshot here.
+<img width="1354" height="646" alt="Screenshot 2026-11-05 211902" src="https://github.com/user-attachments/assets/f3b555d6-c360-4b4f-b34a-aab5c3f4bf1a" />
+
 
 ---
 
@@ -92,19 +93,22 @@ Install Node.js, npm, Nginx, and the MySQL client on the instance, and confirm N
 
 #### Screenshot 8 — Output of `node -v` and `npm -v`
 
-Add your screenshot here.
+<img width="325" height="81" alt="Screenshot 2026-11-05 212543" src="https://github.com/user-attachments/assets/8da1c087-f996-4398-b435-fd7e1791adfa" />
+
 
 ---
 
 #### Screenshot 9 — Output of `systemctl status nginx`
 
-Add your screenshot here.
+<img width="1100" height="328" alt="Screenshot 2026-11-05 213026" src="https://github.com/user-attachments/assets/b4b53746-9ac1-4c90-9533-090632e59ebd" />
+
 
 ---
 
 #### Screenshot 10 — Output of `mysql --version`
 
-Add your screenshot here.
+<img width="617" height="88" alt="Screenshot 2026-11-05 213106" src="https://github.com/user-attachments/assets/6f351840-39da-4759-b918-3f9f87e3af4d" />
+
 
 ---
 
