@@ -144,7 +144,8 @@ Connect to RDS from EC2, create the `epicbook` database, and import the provided
 
 #### Screenshot 13 — Terminal showing successful `SHOW TABLES;` output with tables listed
 
-Add your screenshot here.
+<img width="758" height="84" alt="Screenshot 2026-11-09 191805" src="https://github.com/user-attachments/assets/5fb443d9-f7cc-4fef-a82e-f65c3dacfd37" />
+
 
 ---
 
