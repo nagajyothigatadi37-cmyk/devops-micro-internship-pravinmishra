@@ -166,13 +166,15 @@ Clone the EpicBook repository, install backend dependencies, configure `.env` wi
 
 #### Screenshot 15 — Terminal showing the backend running, or `ss -tulpn` showing the port open
 
-Add your screenshot here.
+<img width="1365" height="534" alt="Screenshot 2026-11-10 212550" src="https://github.com/user-attachments/assets/b1736edb-56b2-446d-9657-442ba940076d" />
+
 
 ---
 
 #### Screenshot 16 — `curl` output proving the backend responds; a 200, 301, or 404 response is acceptable if the service responds
 
-Add your screenshot here.
+<img width="816" height="106" alt="Screenshot 2026-11-10 213047" src="https://github.com/user-attachments/assets/c485284b-9635-42ab-ba0d-53226eefc1be" />
+
 
 ---
 
