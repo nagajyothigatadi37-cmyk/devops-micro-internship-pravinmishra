@@ -188,13 +188,13 @@ Copy the frontend files to the Nginx web root and configure Nginx to reverse-pro
 
 #### Screenshot 17 — `nginx -t` success output
 
-Add your screenshot here.
+<img width="916" height="206" alt="Screenshot 2026-11-11 131804" src="https://github.com/user-attachments/assets/107adf79-4e5b-4d92-aac3-617c42f868d5" />
 
 ---
 
 #### Screenshot 18 — Nginx configuration snippet showing the `/api/` reverse proxy
 
-Add your screenshot here.
+<img width="581" height="379" alt="Screenshot 2026-11-11 131821" src="https://github.com/user-attachments/assets/5c1e2075-ed58-4b47-9d65-b33ae1cdec89" />
 
 ---
 
@@ -214,13 +214,14 @@ Add your screenshot here.
 
 #### Screenshot 20 — Terminal showing a successful API call through the public endpoint, such as `curl http://<EC2_PUBLIC_IP>/api/...`
 
-Add your screenshot here.
+<img width="764" height="164" alt="Screenshot 2026-11-11 132134" src="https://github.com/user-attachments/assets/9e25dfd5-fe20-4d7a-9b54-5283bc038bb6" />
 
 ---
 
 #### Screenshot 21 — Terminal showing the successful database connectivity test using `SELECT 1;` or similar
 
-Add your screenshot here.
+<img width="445" height="192" alt="Screenshot 2026-11-11 132603" src="https://github.com/user-attachments/assets/ac1d859f-a938-4526-8334-afa377c2aed9" />
+
 
 ---
 
